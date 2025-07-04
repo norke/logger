@@ -1,0 +1,28 @@
+{
+    "name": "@norke/logger",
+    "version": "1.0.0",
+    "description": "A simple, styled logger with Dracula theme for the browser console.",
+    "main": "./logger.js",
+    "exports": {
+      ".": "./logger.js"
+    },
+    "type": "module",
+    "files": [
+      "logger.js"
+    ],
+    "keywords": [
+      "logger",
+      "console",
+      "debug",
+      "browser",
+      "styled",
+      "dracula"
+    ],
+    "author": "Miguel López (Norke) <miguel.lpzg@gmail.com>",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/norke/logger.git"
+    }
+  }
+  
