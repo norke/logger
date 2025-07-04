@@ -1,6 +1,6 @@
 {
     "name": "@norke/logger",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A simple, styled logger with Dracula theme for the browser console.",
     "main": "./logger.js",
     "exports": {
@@ -9,7 +9,8 @@
     "type": "module",
     "types": "./index.d.ts",
     "files": [
-        "logger.js"
+        "logger.js",
+        "index.d.ts"
     ],
     "keywords": [
         "logger",
